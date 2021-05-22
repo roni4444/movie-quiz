@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120884704085",
+    "project_id": "movie-quiz-game",
+    "storage_bucket": "movie-quiz-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120884704085:android:4c96f0c9cbab5ee27f35dc",
+        "android_client_info": {
+          "package_name": "com.example.movie_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120884704085-bnhlnhucfruetoa27ln1j8actjrg1291.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhxixcTwpTISS2D9cNAiUact16xkaxtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120884704085-bnhlnhucfruetoa27ln1j8actjrg1291.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
